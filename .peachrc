@@ -1,8 +1,8 @@
 {
-  "key": "APP_KEY",
+  "key": "herd_manager",
   "framework": {
     "angular": {
-      "module": "APP_MODULE_NAME",
+      "module": "herd_manager",
       "version": "1.5.0"
     }
   }

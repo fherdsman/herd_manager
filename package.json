@@ -1,5 +1,5 @@
 {
-  "name": "REPOSITORY_NAME",
+  "name": "herd_manager",
   "private": true,
   "version": "1.0.0",
   "description": "Peach Application Scaffold",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peachworks/REPOSITORY_NAME.git"
+    "url": "git+https://github.com/fherdsman/herd_manager.git"
   },
-  "author": "YOUR_NAME <YOUR_EMAIL>",
+  "author": "Finnish Herdsman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/peachworks/REPOSITORY_NAME/issues"
+    "url": "https://github.com/fherdsman/herd_manager/issues"
   },
-  "homepage": "https://github.com/peachworks/REPOSITORY_NAME#readme",
+  "homepage": "https://github.com/fherdsman/herd_manager#readme",
   "dependencies": {
     "angular": "1.5.0",
     "angular-animate": "1.5.0",
